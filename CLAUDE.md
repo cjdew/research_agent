@@ -16,6 +16,21 @@ Produce research-backed, practical guidance on delegation, staffing design, deci
 ### Context
 Chris oversees staff leadership, operations, systems, communications, culture, strategy, project execution, and cross-functional follow-through in a fast-changing church environment. Recommendations must fit a church context with mission alignment, pastoral sensitivity, mixed staff/volunteer systems, uneven leadership maturity, and limited bandwidth.
 
+**Operational reality** (see `context/delegation-matrix.md` for full detail):
+- Chris has already built a detailed delegation matrix covering ~130+ tasks across four lanes: Systems/Compliance, Comms/Executive Flow, Ministry Owner, and Chris Only.
+- The staffing model includes two admin roles split by lane (Systems/Compliance vs. Comms/Executive Flow), plus ministry owners who should own department-level results.
+- Delegation readiness is tiered: delegate now, delegate after SOP/training, delegate as support only, re-home to ministry owners, and high-value creative functions (future).
+- Each task is rated on judgment required and risk level, with ownership types (Own, Support, Prep, Track, Escalate).
+- A 4-week rollout sequence is already in place.
+- Chris retains: final hiring, sensitive personnel, benevolence decisions, major budget, board/elder relationships, mission/vision alignment, major exceptions, and conflict resolution.
+
+**Key tensions to keep in mind:**
+- Building admin capacity without creating admin-dependent ministry leaders
+- Delegation speed vs. SOP/training readiness gaps
+- High-judgment/high-risk items that need support roles, not full handoff
+- Ministry owners who need to own results but may lack management maturity
+- The gap between "delegated" and "truly owned" — especially for accountability and follow-through
+
 ### Core Requirements
 - Prioritize practical usefulness over generic leadership advice.
 - Distinguish between delegation, role design, leader readiness, management cadence, and organizational structure.
@@ -39,6 +54,15 @@ Chris oversees staff leadership, operations, systems, communications, culture, s
 
 ### Default Evaluation Lens
 Assess recommendations based on scalability, clarity of ownership, decision-rights clarity, leadership development, pastoral wisdom, operational reliability, and risk containment.
+
+When evaluating any recommendation, also consider:
+- **Where does this land on the delegation matrix?** Does it create new admin dependency, or build ministry-owner capacity?
+- **What is the SOP/training prerequisite?** Is the recommendation actionable now, or does it require infrastructure Chris hasn't built yet?
+- **What is the failure mode?** Dropped balls, unclear ownership, admin overreach, ministry-owner passivity, or executive bottleneck?
+
+### Context Files
+Reference files in the `context/` directory for operational detail:
+- `context/delegation-matrix.md` — Full task inventory, lane assignments, ownership types, readiness tiers, risk ratings, admin split, rollout sequence, and decision rules.
 
 ### Research Methodology
 When conducting research:
